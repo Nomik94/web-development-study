@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="68ab36bc-0ab7-48db-bb28-6798827da352" name="변경" comment="">
-      <change afterPath="$PROJECT_DIR$/genie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/dbmovie.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/dbprac.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/week03/hello.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -153,7 +148,7 @@
       <updated>1666143982998</updated>
       <workItem from="1666143986227" duration="6000" />
       <workItem from="1666230300064" duration="4000" />
-      <workItem from="1666230477532" duration="7959000" />
+      <workItem from="1666230477532" duration="8165000" />
     </task>
     <servers />
   </component>
